@@ -1,0 +1,371 @@
+query1:
+
+[(rdflib.term.URIRef(u'http://example.org/Felipe_Anderson'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Douglas_Luiz'),
+ rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Wesley'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.
+URIRef(u'http://example.org/Bernard'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Lucas_Moura'), rdflib.term.URIRef(u'http://ex
+ample.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Bernardo'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'htt
+p://example.org/Gabriel_Jesus'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Fabinho'), rdflib.term.URIRef(u'http://exam
+ple.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Roberto_Firmino'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/
+Emerson_Palmieri'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Ederson'), rdflib.term.URIRef(u'http://example.org/Manchester_Ci
+ty')), (rdflib.term.URIRef(u'http://example.org/Gabriel_Martinelli'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Heurelho_Gomes
+'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Alisson'), rdflib.term.URIRef(u'http://example.org/Liverpool'))]
+
+#############################################################
+
+query2:
+
+[(rdflib.term.URIRef(u'http://example.org/Lucas_Torreira'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Oumar_Niasse'), rdflib.t
+erm.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Pablo_Zabaleta'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.U
+RIRef(u'http://example.org/Javier_Manquillo'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/S\xe9bastien_Haller'), rdfli
+b.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Moritz_Leitner'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdfli
+b.term.URIRef(u'http://example.org/Josh_Brownhill'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Michael_Keane'), rdflib.term.UR
+IRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Jo\xe3o_Cancelo'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef
+(u'http://example.org/Muhamed_Be\u0161i\u0107'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Patrick_van_Aanholt'), rdf
+lib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Cheikhou_Kouyat\xe9'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace'))
+, (rdflib.term.URIRef(u'http://example.org/Ryan_Sessegnon'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Danny_Rose'),
+ rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/DeAndre_Yedlin'), rdflib.term.URIRef(u'http://example.org/Newcastle_United
+')), (rdflib.term.URIRef(u'http://example.org/Tom_Dele-Bashiru'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Dan_Burn'), rdflib
+.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Daniel_Podence'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wan
+derers')), (rdflib.term.URIRef(u'http://example.org/Jonjo_Shelvey'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Ryan_F
+redericks'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Jack_Colback'), rdflib.term.URIRef(u'http://example.org/Newcast
+le_United')), (rdflib.term.URIRef(u'http://example.org/Jetro_Willems'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Rya
+n_Fraser'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Enda_Stevens'), rdflib.term.URIRef(u'http://example.org/Sheffield_Un
+ited')), (rdflib.term.URIRef(u'http://example.org/Alex_McCarthy'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Kasper_Schmei
+chel'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Neil_Taylor'), rdflib.term.URIRef(u'http://example.org/Aston_Villa'))
+, (rdflib.term.URIRef(u'http://example.org/Yerry_Mina'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Wayne_Hennessey'), rdflib.t
+erm.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Matty_Longstaff'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdfl
+ib.term.URIRef(u'http://example.org/Luke_Freeman'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Riyad_Mahrez'), rdflib.
+term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Ainsley_Maitland-Niles'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdfl
+ib.term.URIRef(u'http://example.org/Ashley_Westwood'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Marco_Stiepermann'), rdflib.t
+erm.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Matteo_Guendouzi'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.UR
+IRef(u'http://example.org/Ben_Mee'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Conor_Coady'), rdflib.term.URIRef(u'http://exam
+ple.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Panagiotis_Retsos'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRe
+f(u'http://example.org/Tr\xe9z\xe9guet'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Sander_Berge'), rdflib.term.URIRef(u'h
+ttp://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Reiss_Nelson'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://
+example.org/Virgil_van_Dijk'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Craig_Cathcart'), rdflib.term.URIRef(u'http://examp
+le.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Kieran_Tierney'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Adam_I
+dah'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Marco_van_Ginkel'), rdflib.term.URIRef(u'http://example.org/Chelsea')),
+(rdflib.term.URIRef(u'http://example.org/Mohamed_Salah'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Will_Hughes'), rdflib.te
+rm.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/David_McGoldrick'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term
+.URIRef(u'http://example.org/Yves_Bissouma'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Michel_Vorm'), rdflib.t
+erm.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Ra\xfal_Jim\xe9nez'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wander
+ers')), (rdflib.term.URIRef(u'http://example.org/Leandro_Trossard'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/
+Shane_Duffy'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Michael_Verrips'), rdflib.term.URIRef(u'http://example
+.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Kyle_Taylor'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.or
+g/John_Egan'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Pablo_Mar\xed'), rdflib.term.URIRef(u'http://example.org/Ars
+enal')), (rdflib.term.URIRef(u'http://example.org/Onel_Hern\xe1ndez'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Manuel_L
+anzini'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Emil_Krafth'), rdflib.term.URIRef(u'http://example.org/Newcastle_U
+nited')), (rdflib.term.URIRef(u'http://example.org/Sepp_van_den_Berg'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Giovani_Lo
+_Celso'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Steven_Alzate'), rdflib.term.URIRef(u'http://example.org/Brighto
+n_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Claudio_Bravo'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.or
+g/Adam_Legzdins'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Lewis_Dunk'), rdflib.term.URIRef(u'http://example.org/Brighton_&_
+Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Simon_Moore'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Heu
+relho_Gomes'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Michy_Batshuayi'), rdflib.term.URIRef(u'http://example.org/Chelsea'))
+, (rdflib.term.URIRef(u'http://example.org/Ezequiel_Schelotto'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Char
+lie_Daniels'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Ryan_Bertrand'), rdflib.term.URIRef(u'http://example.org/Southamp
+ton')), (rdflib.term.URIRef(u'http://example.org/Steve_Cook'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Lys_Mousset'), rd
+flib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Naby_Ke\xefta'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdfli
+b.term.URIRef(u'http://example.org/Willy_Caballero'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Joe_Hart'), rdflib.term.URIRef
+(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Takumi_Minamino'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://
+example.org/Callum_Wilson'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Andre_Gray'), rdflib.term.URIRef(u'http://example.o
+rg/Watford')), (rdflib.term.URIRef(u'http://example.org/Benjamin_Mendy'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Ma
+thew_Ryan'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Chris_Basham'), rdflib.term.URIRef(u'http://example.org/
+Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Hamza_Choudhury'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.
+org/Marc_Albrighton'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Valentino_Lazaro'), rdflib.term.URIRef(u'http://exampl
+e.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Kelechi_\u1ecaheanach\u1ecd'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef
+(u'http://example.org/Robbie_Brady'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Granit_Xhaka'), rdflib.term.URIRef(u'http://ex
+ample.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Erik_Lamela'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.
+org/Djibril_Sidib\xe9'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/H\xe9ctor_Beller\xedn'), rdflib.term.URIRef(u'http://exampl
+e.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Brandon_Pierrick'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.or
+g/Ayoze_P\xe9rez'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Jos\xe9_Izquierdo'), rdflib.term.URIRef(u'http://example.
+org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Jamal_Lewis'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://exam
+ple.org/Anthony_Gordon'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Marcos_Alonso'), rdflib.term.URIRef(u'http://example.org/C
+helsea')), (rdflib.term.URIRef(u'http://example.org/Andr\xe9_Gomes'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Jordon_Ibe'),
+rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Jo\xe3o_Moutinho'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wander
+ers')), (rdflib.term.URIRef(u'http://example.org/Ali_Koiki'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Ondrej_Duda'), rdflib.
+term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Mason_Holgate'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIR
+ef(u'http://example.org/Bernard'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Morgan_Schneiderlin'), rdflib.term.URIRef(u'http:
+//example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Sam_Surridge'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.o
+rg/Matt_Doherty'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Allan_Saint-Maximin'), rdflib.term.URIRef(u'http:
+//example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/John_McGinn'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://e
+xample.org/Dwight_Gayle'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Jarrod_Bowen'), rdflib.term.URIRef(u'http://exam
+ple.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Georginio_Wijnaldum'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://ex
+ample.org/Harry_Winks'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Ashley_Barnes'), rdflib.term.URIRef(u'http://exam
+ple.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Adam_Smith'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Ki-Ja
+na_Hoever'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Rob_Holding'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (r
+dflib.term.URIRef(u'http://example.org/Yan_Valery'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Ben_Foster'), rdflib.term.U
+RIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Andy_Lonergan'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http
+://example.org/Tom_Heaton'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Billy_Gilmour'), rdflib.term.URIRef(u'http://exampl
+e.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Oskar_Buur'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example
+.org/Steven_Bergwijn'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Leroy_San\xe9'), rdflib.term.URIRef(u'http://examp
+le.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Raheem_Sterling'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://e
+xample.org/Joel_Ward'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Bernardo_Silva'), rdflib.term.URIRef(u'http://example
+.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Jeff_Hendrick'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/O
+leksandr_Zinchenko'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Federico_Fern\xe1ndez'), rdflib.term.URIRef(u'http://e
+xample.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Rui_Patr\xedcio'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIR
+ef(u'http://example.org/Cenk_Tosun'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Adama_Traor\xe9'), rdflib.term.URIRef(u'http:/
+/example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Sofiane_Boufal'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u
+'http://example.org/\xd8rjan_Nyland'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Jerome_Sinclair'), rdflib.term.URIRef(u'h
+ttp://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Issa_Diop'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://exam
+ple.org/Beram_Kayal'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Dominic_Solanke'), rdflib.term.URIRef(u'http:/
+/example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Jos\xe9_Holebas'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example
+.org/Lloyd_Kelly'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Eddie_Nketiah'), rdflib.term.URIRef(u'http://example.org/Ars
+enal')), (rdflib.term.URIRef(u'http://example.org/Will_Smallbone'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Jonny'), rdf
+lib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Isaac_Success'), rdflib.term.URIRef(u'http://example.org/Watford')), (r
+dflib.term.URIRef(u'http://example.org/Romain_Sa\xefss'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Ross_Barkl
+ey'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Gabriel_Martinelli'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdf
+lib.term.URIRef(u'http://example.org/Tom\xe1\u0161_Sou\u010dek'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Keinan_Dav
+is'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Kyle_Walker-Peters'), rdflib.term.URIRef(u'http://example.org/Southampton'
+)), (rdflib.term.URIRef(u'http://example.org/Jo\xe3o_Pedro'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Jamie_Vardy'), rdflib.
+term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Reece_James'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIR
+ef(u'http://example.org/John_Stones'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Oli_McBurnie'), rdflib.term.URIRef(u'
+http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Eldin_Jakupovi\u0107'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.
+URIRef(u'http://example.org/Jack_Robinson'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/David_Brooks'), rdflib.term.UR
+IRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Bj\xf6rn_Engels'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef
+(u'http://example.org/Juan_Foyth'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Dejan_Lovren'), rdflib.term.URIRef(u'h
+ttp://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Joe_Gomez'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.
+org/Adrian_Mariappa'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Jordan_Henderson'), rdflib.term.URIRef(u'http://example.org/L
+iverpool')), (rdflib.term.URIRef(u'http://example.org/Matt_Targett'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Jean-Phili
+ppe_Gbamin'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Hugo_Lloris'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotsp
+ur')), (rdflib.term.URIRef(u'http://example.org/Jannik_Vestergaard'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Albian_Aje
+ti'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Jack_Cork'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdfl
+ib.term.URIRef(u'http://example.org/J\xf3hann_Berg_Gu\xf0mundsson'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Kepa_Arrizabala
+ga'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Ahmed_Elmohamady'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (r
+dflib.term.URIRef(u'http://example.org/George_Baldock'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Diogo_Jota'), rdfl
+ib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Diego_Rico'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (r
+dflib.term.URIRef(u'http://example.org/Dennis_Praet'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Dennis_Adeniran'), rdf
+lib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Emiliano_Mart\xednez'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.ter
+m.URIRef(u'http://example.org/Robert_Snodgrass'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Charlie_Taylor'), rdflib.t
+erm.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Christian_Benteke'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term
+.URIRef(u'http://example.org/Chris_Wood'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Aaron_Lennon'), rdflib.term.URIRef(u'http
+://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Lucas_Moura'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://exa
+mple.org/Grant_Hanley'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Callum_Hudson-Odoi'), rdflib.term.URIRef(u'http://exam
+ple.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Troy_Deeney'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Ignacio_
+Pussetto'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Gabriel_Jesus'), rdflib.term.URIRef(u'http://example.org/Manchester_City
+')), (rdflib.term.URIRef(u'http://example.org/Ryan_Bennett'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Tom_Trybull'),
+rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Matt_Macey'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.
+URIRef(u'http://example.org/Dale_Stephens'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Mario_Vran\u010di\u0107'
+), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Martin_D\xfabravka'), rdflib.term.URIRef(u'http://example.org/Newcastle_Unit
+ed')), (rdflib.term.URIRef(u'http://example.org/Adri\xe1n'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Cuco_Martina'), rdfli
+b.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Moussa_Sissoko'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.t
+erm.URIRef(u'http://example.org/Pierre-Emerick_Aubameyang'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Caoimh\xedn_Kelleher'),
+ rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Craig_Dawson'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.
+URIRef(u'http://example.org/Jack_Stephens'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Billy_Sharp'), rdflib.term.URIRef(u
+'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Jack_Simpson'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'h
+ttp://example.org/Rodri'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Leonardo_Campana'), rdflib.term.URIRef(u'http://e
+xample.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Gedson_Fernandes'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.UR
+IRef(u'http://example.org/Dean_Henderson'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Jimmy_Dunne'), rdflib.term.URIR
+ef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Ruben_Loftus-Cheek'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http
+://example.org/Ben_Gibson'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Wilfried_Zaha'), rdflib.term.URIRef(u'http://example.or
+g/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Jota'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Jan_Bednar
+ek'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Toby_Alderweireld'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hot
+spur')), (rdflib.term.URIRef(u'http://example.org/Aaron_Cresswell'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Jack_Ro
+dwell'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Japhet_Tanganga'), rdflib.term.URIRef(u'http://example.org/Tottenh
+am_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Florian_Lejeune'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/
+Danny_Ward'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Fabian_Sch\xe4r'), rdflib.term.URIRef(u'http://example.org/Newc
+astle_United')), (rdflib.term.URIRef(u'http://example.org/Jo\xe3o_Virg\xednia'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Jef
+frey_Schlupp'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Philip_Billing'), rdflib.term.URIRef(u'http://example.org/Bou
+rnemouth')), (rdflib.term.URIRef(u'http://example.org/Alex_Iwobi'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Christian_Atsu')
+, rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Roberto_Firmino'), rdflib.term.URIRef(u'http://example.org/Liverpool')),
+(rdflib.term.URIRef(u'http://example.org/Richairo_Zivkovic'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Calum_Chamber
+s'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Neal_Maupay'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')
+), (rdflib.term.URIRef(u'http://example.org/Dwight_McNeil'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Stuart_Armstrong'), rdf
+lib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Daniel_Amartey'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdfli
+b.term.URIRef(u'http://example.org/Adam_Lallana'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Darren_Randolph'), rdflib.term.
+URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Harry_Kane'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term
+.URIRef(u'http://example.org/Theo_Walcott'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Dominic_Calvert-Lewin'), rdflib.term.UR
+IRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Ricardo_Pereira'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(
+u'http://example.org/Moussa_Djenepo'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Richarlison'), rdflib.term.URIRef(u'http:
+//example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Josip_Drmi\u0107'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://exam
+ple.org/Pablo_Fornals'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Sergio_Ag\xfcero'), rdflib.term.URIRef(u'http://exa
+mple.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Jo\xebl_Matip'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example
+.org/Michael_Obafemi'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Gon\xe7alo_Cardoso'), rdflib.term.URIRef(u'http://exampl
+e.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Tyrone_Mings'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.o
+rg/\u0130lkay_G\xfcndo\u011fan'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Tanguy_Ndombele'), rdflib.term.URIRef(u'ht
+tp://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Kortney_Hause'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'ht
+tp://example.org/Lukas_Rupp'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Solly_March'), rdflib.term.URIRef(u'http://examp
+le.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Alexandre_Lacazette'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http:
+//example.org/Ben_Godfrey'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Ben_Osborn'), rdflib.term.URIRef(u'http://example.
+org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Kurt_Zouma'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Your
+i_Tielemans'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Max_Aarons'), rdflib.term.URIRef(u'http://example.org/Norwich_
+City')), (rdflib.term.URIRef(u'http://example.org/Artur_Boruc'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/C\xe9dric_Soare
+s'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Moise_Kean'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.
+URIRef(u'http://example.org/Kevin_Danso'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u"http://example.org/Jack_O'Connell"), rdflib.term.URIRef(
+u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Rob_Elliot'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef
+(u'http://example.org/Jonny_Evans'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u"http://example.org/N'Golo_Kant\xe9"), rdflib.term.URIRef(u'
+http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Andreas_Christensen'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://e
+xample.org/Serge_Aurier'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Jack_Stacey'), rdflib.term.URIRef(u'http://exam
+ple.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Andrew_Surman'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.or
+g/Jordan_Ayew'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Fabinho'), rdflib.term.URIRef(u'http://example.org/Liverpool
+')), (rdflib.term.URIRef(u'http://example.org/Sean_Longstaff'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Ch\xe9_Adam
+s'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Fr\xe9d\xe9ric_Guilbert'), rdflib.term.URIRef(u'http://example.org/Aston_Vi
+lla')), (rdflib.term.URIRef(u'http://example.org/Son_Heung-min'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Loris_Ka
+rius'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Max_Kilman'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wander
+ers')), (rdflib.term.URIRef(u'http://example.org/Matty_James'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Isaac_Hayden'
+), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Pepe_Reina'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (r
+dflib.term.URIRef(u'http://example.org/Roberto_Pereyra'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Davy_Pr\xf6pper'), rdflib.
+term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Fabi\xe1n_Balbuena'), rdflib.term.URIRef(u'http://example.org/West_Ham_Unite
+d')), (rdflib.term.URIRef(u'http://example.org/Tammy_Abraham'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Christian_Pulisic'),
+ rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/David_Martin'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib
+.term.URIRef(u'http://example.org/Pierre-Emile_H\xf8jbjerg'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Bernd_Leno'), rdfl
+ib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Gylfi_Sigur\xf0sson'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.
+URIRef(u'http://example.org/Phil_Jagielka'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Christian_Fuchs'), rdflib.term
+.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/James_McCarthy'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.ter
+m.URIRef(u'http://example.org/Mark_Travers'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/James_Tomkins'), rdflib.term.URIRe
+f(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Marvelous_Nakamba'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIR
+ef(u'http://example.org/Erik_Pieters'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Martin_Kelly'), rdflib.term.URIRef(u'http://
+example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Mamadou_Sakho'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://
+example.org/Phil_Bardsley'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Fernandinho'), rdflib.term.URIRef(u'http://example.org/
+Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Ja\xefro_Riedewald'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://exampl
+e.org/Demarai_Gray'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Eric_Dier'), rdflib.term.URIRef(u'http://example.org/To
+ttenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Shane_Long'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Sam_B
+yram'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Mesut_\xd6zil'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (r
+dflib.term.URIRef(u'http://example.org/Gary_Cahill'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Glenn_Murray'), rdflib.
+term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Mason_Mount'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.t
+erm.URIRef(u'http://example.org/Willian'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Nick_Pope'), rdflib.term.URIRef(u'http://
+example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Tom_Cleverley'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Ti
+mm_Klose'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Maarten_Stekelenburg'), rdflib.term.URIRef(u'http://example.org/Eve
+rton')), (rdflib.term.URIRef(u'http://example.org/Dan_Gosling'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Tariq_Lamptey')
+, rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Aaron_Mooy'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Ho
+ve_Albion')), (rdflib.term.URIRef(u'http://example.org/Abdoulaye_Doucour\xe9'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Max_
+Meyer'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Aaron_Connolly'), rdflib.term.URIRef(u'http://example.org/Brighton_&
+_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Douglas_Luiz'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Anwar_
+El_Ghazi'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/James_Milner'), rdflib.term.URIRef(u'http://example.org/Liverpool'))
+, (rdflib.term.URIRef(u'http://example.org/Emi_Buend\xeda'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Xherdan_Shaqiri'),
+ rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/John_Fleck'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdfli
+b.term.URIRef(u'http://example.org/Harvey_Elliott'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Alisson'), rdflib.term.URIRef
+(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Chris_Mepham'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http:/
+/example.org/Shkodran_Mustafi'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Karl_Darlow'), rdflib.term.URIRef(u'http://example.
+org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Nabil_Bentaleb'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://exa
+mple.org/Simon_Francis'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Mat\u011bj_Vydra'), rdflib.term.URIRef(u'http://exampl
+e.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Todd_Cantwell'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Dan
+iel_Bachmann'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Nicolas_P\xe9p\xe9'), rdflib.term.URIRef(u'http://example.org/Arsena
+l')), (rdflib.term.URIRef(u'http://example.org/\xc9tienne_Capoue'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Stephen_Henderso
+n'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Daryl_Janmaat'), rdflib.term.URIRef(u'http://example.org/Watford')), (rd
+flib.term.URIRef(u'http://example.org/Oliver_Norwood'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Jeremy_Ngakia'), rd
+flib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Bailey_Peacock-Farrell'), rdflib.term.URIRef(u'http://example.org/Burnley')),
+(rdflib.term.URIRef(u'http://example.org/Domingos_Quina'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Jake_Vokins'), rdflib.ter
+m.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Wilfred_Ndidi'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.U
+RIRef(u'http://example.org/\u0141ukasz_Fabia\u0144ski'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Matthew_Lowton'), r
+dflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Gerard_Deulofeu'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.U
+RIRef(u'http://example.org/Yoshinori_Muto'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Pedro_Neto'), rdflib.term.URIR
+ef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Eric_Garc\xeda'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdfli
+b.term.URIRef(u'http://example.org/Miguel_Almir\xf3n'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/James_Justin'), rdf
+lib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Mart\xedn_Montoya'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Alb
+ion')), (rdflib.term.URIRef(u'http://example.org/Sead_Kola\u0161inac'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Adalberto_Pe
+\xf1aranda'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Bukayo_Saka'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rd
+flib.term.URIRef(u'http://example.org/Alexander_Tettey'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Davinson_S\xe1nchez')
+, rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/R\xfaben_Vinagre'), rdflib.term.URIRef(u'http://example.org/Wolverhampto
+n_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Angelo_Ogbonna'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/D
+ivock_Origi'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Christoph_Zimmermann'), rdflib.term.URIRef(u'http://example.org/Nor
+wich_City')), (rdflib.term.URIRef(u'http://example.org/Adam_Webster'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.or
+g/Trent_Alexander-Arnold'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/S\xe9amus_Coleman'), rdflib.term.URIRef(u'http://examp
+le.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Oliver_Skipp'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.or
+g/\xc7a\u011flar_S\xf6y\xfcnc\xfc'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Harvey_Barnes'), rdflib.term.URIRef(u'ht
+tp://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Arthur_Masuaku'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'
+http://example.org/James_Tarkowski'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Christian_Kabasele'), rdflib.term.URIRef(u'htt
+p://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Leander_Dendoncker'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRe
+f(u'http://example.org/Willy_Boly'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Junior_Stanislas'), rdflib.term
+.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Kevin_De_Bruyne'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term
+.URIRef(u'http://example.org/Borja_Bast\xf3n'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Danny_Ings'), rdflib.term.URIRef
+(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Wes_Morgan'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'htt
+p://example.org/Danny_Welbeck'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Ben_Chilwell'), rdflib.term.URIRef(u'http://example
+.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Elias_S\xf8rensen'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://e
+xample.org/James_McArthur'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Jack_Grealish'), rdflib.term.URIRef(u'http://exa
+mple.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Tim_Krul'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/L
+uka_Milivojevi\u0107'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Sadio_Man\xe9'), rdflib.term.URIRef(u'http://example.
+org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Danny_Drinkwater'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/J
+ed_Steer'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Ciaran_Clark'), rdflib.term.URIRef(u'http://example.org/Newcastle_Un
+ited')), (rdflib.term.URIRef(u'http://example.org/Michael_McGovern'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/Antonio_R
+\xfcdiger'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Harry_Wilson'), rdflib.term.URIRef(u'http://example.org/Bournemouth')),
+ (rdflib.term.URIRef(u'http://example.org/Ben_Davies'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Pascal_Gro\xdf'),
+rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Mbwana_Samatta'), rdflib.term.URIRef(u'http://example.org/Aston_Villa
+')), (rdflib.term.URIRef(u'http://example.org/Leon_Clarke'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Jan_Vertonghen
+'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Conor_Hourihane'), rdflib.term.URIRef(u'http://example.org/Aston_Villa
+')), (rdflib.term.URIRef(u'http://example.org/Lucas_Digne'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Alireza_Jahanbakhsh'),
+rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Sam_McQueen'), rdflib.term.URIRef(u'http://example.org/Southampton'))
+, (rdflib.term.URIRef(u'http://example.org/Scott_Carson'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Olivier_Giroud'),
+ rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Andrew_Robertson'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.t
+erm.URIRef(u'http://example.org/Jorginho'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Joelinton'), rdflib.term.URIRef(u'http:/
+/example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Kenny_McLean'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://
+example.org/Ederson'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/David_Silva'), rdflib.term.URIRef(u'http://example.or
+g/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/James_Ward-Prowse'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.
+org/Dele_Alli'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Jason_Steele'), rdflib.term.URIRef(u'http://example.org/B
+righton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Mateo_Kova\u010di\u0107'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://ex
+ample.org/C\xe9sar_Azpilicueta'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Declan_Rice'), rdflib.term.URIRef(u'http://example
+.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Joe_Willock'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Mat
+t_Ritchie'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://example.org/Paulo_Gazzaniga'), rdflib.term.URIRef(u'http://example.org/Tot
+tenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Andros_Townsend'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.or
+g/Kevin_Long'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Henri_Saivet'), rdflib.term.URIRef(u'http://example.org/Newcastle_Un
+ited')), (rdflib.term.URIRef(u'http://example.org/Carlos_S\xe1nchez'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Scott
+_Dann'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Harry_Lewis'), rdflib.term.URIRef(u'http://example.org/Southampton')
+), (rdflib.term.URIRef(u'http://example.org/Bruno_Jord\xe3o'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/John_
+Lundstram'), rdflib.term.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/R\xfaben_Neves'), rdflib.term.URIRef(u'http://example.org/Wolv
+erhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Nathaniel_Chalobah'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.o
+rg/Curtis_Jones'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Tom_Davies'), rdflib.term.URIRef(u'http://example.org/Everton')
+), (rdflib.term.URIRef(u'http://example.org/Teemu_Pukki'), rdflib.term.URIRef(u'http://example.org/Norwich_City')), (rdflib.term.URIRef(u'http://example.org/David_Luiz'), rdflib
+.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Aaron_Ramsdale'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URI
+Ref(u'http://example.org/Nathaniel_Clyne'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Felipe_Anderson'), rdflib.term.URIRef(
+u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Kiko_Femen\xeda'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'ht
+tp://example.org/Alexis_Mac_Allister'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Phil_Foden'), rdflib.term.URI
+Ref(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Andy_Carroll'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.U
+RIRef(u'http://example.org/Gavin_Kilkenny'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Arnaut_Danjuma'), rdflib.term.URIRe
+f(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Callum_Whelan'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http:/
+/example.org/Joshua_King'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/James_Maddison'), rdflib.term.URIRef(u'http://exampl
+e.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Jamie_Sterry'), rdflib.term.URIRef(u'http://example.org/Newcastle_United')), (rdflib.term.URIRef(u'http://examp
+le.org/Ezri_Konsa'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/John_Ruddy'), rdflib.term.URIRef(u'http://example.org/Wolve
+rhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Angus_Gunn'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/He
+nri_Lansbury'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Jamaal_Lascelles'), rdflib.term.URIRef(u'http://example.org/Newc
+astle_United')), (rdflib.term.URIRef(u'http://example.org/Beni_Baningime'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Nampalys
+_Mendy'), rdflib.term.URIRef(u'http://example.org/Leicester_City')), (rdflib.term.URIRef(u'http://example.org/Nicol\xe1s_Otamendi'), rdflib.term.URIRef(u'http://example.org/Manc
+hester_City')), (rdflib.term.URIRef(u'http://example.org/Ben_Johnson'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Kyle
+_Walker'), rdflib.term.URIRef(u'http://example.org/Manchester_City')), (rdflib.term.URIRef(u'http://example.org/Paul_Dummett'), rdflib.term.URIRef(u'http://example.org/Newcastle
+_United')), (rdflib.term.URIRef(u'http://example.org/Fikayo_Tomori'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Morgan_Gibbs-W
+hite'), rdflib.term.URIRef(u'http://example.org/Wolverhampton_Wanderers')), (rdflib.term.URIRef(u'http://example.org/Jack_Wilshere'), rdflib.term.URIRef(u'http://example.org/Wes
+t_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Lewis_Cook'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/Sokratis
+_Papastathopoulos'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Oriol_Romeu'), rdflib.term.URIRef(u'http://example.org/Southamp
+ton')), (rdflib.term.URIRef(u'http://example.org/Wesley'), rdflib.term.URIRef(u'http://example.org/Aston_Villa')), (rdflib.term.URIRef(u'http://example.org/Emerson_Palmieri'), r
+dflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Mark_Noble'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.ter
+m.URIRef(u'http://example.org/Dani_Ceballos'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Adam_Masina'), rdflib.term.URIRef(u'h
+ttp://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Jefferson_Lerma'), rdflib.term.URIRef(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://ex
+ample.org/Pontus_Dahlberg'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRef(u'http://example.org/Leighton_Baines'), rdflib.term.URIRef(u'http://example.
+org/Everton')), (rdflib.term.URIRef(u'http://example.org/Andriy_Yarmolenko'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.or
+g/Nathan_Redmond'), rdflib.term.URIRef(u'http://example.org/Southampton')), (rdflib.term.URIRef(u'http://example.org/Pedro'), rdflib.term.URIRef(u'http://example.org/Chelsea')),
+ (rdflib.term.URIRef(u'http://example.org/Vicente_Guaita'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Bernardo'), rdfli
+b.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term.URIRef(u'http://example.org/Aymeric_Laporte'), rdflib.term.URIRef(u'http://example.org/Manchester_City
+')), (rdflib.term.URIRef(u'http://example.org/Jay_Rodriguez'), rdflib.term.URIRef(u'http://example.org/Burnley')), (rdflib.term.URIRef(u'http://example.org/Fabian_Delph'), rdfli
+b.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Isma\xefla_Sarr'), rdflib.term.URIRef(u'http://example.org/Watford')), (rdflib.term.URIRe
+f(u'http://example.org/Alex_Oxlade-Chamberlain'), rdflib.term.URIRef(u'http://example.org/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Nathan_Ak\xe9'), rdflib.term.URI
+Ref(u'http://example.org/Bournemouth')), (rdflib.term.URIRef(u'http://example.org/David_Button'), rdflib.term.URIRef(u'http://example.org/Brighton_&_Hove_Albion')), (rdflib.term
+.URIRef(u'http://example.org/Michail_Antonio'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Kieron_Freeman'), rdflib.ter
+m.URIRef(u'http://example.org/Sheffield_United')), (rdflib.term.URIRef(u'http://example.org/Jordan_Pickford'), rdflib.term.URIRef(u'http://example.org/Everton'))]
+
+#############################################################
+
+query3:
+
+[(rdflib.term.URIRef(u'http://example.org/Jamie_Sterry'),), (rdflib.term.URIRef(u'http://example.org/Anthony_Gordon'),), (rdflib.term.URIRef(u'http://example.org/Trent_Alexander
+-Arnold'),), (rdflib.term.URIRef(u'http://example.org/Billy_Sharp'),), (rdflib.term.URIRef(u'http://example.org/Paul_Dummett'),), (rdflib.term.URIRef(u'http://example.org/Lewis_
+Dunk'),), (rdflib.term.URIRef(u'http://example.org/Sam_McQueen'),), (rdflib.term.URIRef(u'http://example.org/Curtis_Jones'),), (rdflib.term.URIRef(u'http://example.org/Tom_Davie
+s'),), (rdflib.term.URIRef(u'http://example.org/Jack_Colback'),), (rdflib.term.URIRef(u'http://example.org/Jack_Grealish'),), (rdflib.term.URIRef(u'http://example.org/Jay_Rodrig
+uez'),)]
+
+#############################################################
+
+query4:
+
+[(rdflib.term.URIRef(u'http://example.org/Chelsea'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Chelsea'), rdflib.ter
+m.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Chelsea'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'ht
+tp://example.org/Chelsea'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Everton'), rdflib.term.URIRef(u'http://example.o
+rg/Liverpool')), (rdflib.term.URIRef(u'http://example.org/Liverpool'), rdflib.term.URIRef(u'http://example.org/Everton')), (rdflib.term.URIRef(u'http://example.org/Arsenal'), rd
+flib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Arsenal'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.
+URIRef(u'http://example.org/Arsenal'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Arsenal'), rdflib.term.URIRef(u'http:/
+/example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/West_Ham_United'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://exa
+mple.org/West_Ham_United'), rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/West_Ham_United'), rdflib.term.URIRef(u'http:/
+/example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/West_Ham_United'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://exam
+ple.org/Crystal_Palace'), rdflib.term.URIRef(u'http://example.org/Chelsea')), (rdflib.term.URIRef(u'http://example.org/Crystal_Palace'), rdflib.term.URIRef(u'http://example.org/
+Tottenham_Hotspur')), (rdflib.term.URIRef(u'http://example.org/Crystal_Palace'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Cry
+stal_Palace'), rdflib.term.URIRef(u'http://example.org/West_Ham_United')), (rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur'), rdflib.term.URIRef(u'http://example.org/
+Chelsea')), (rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur'), rdflib.term.URIRef(u'http://example.org/Crystal_Palace')), (rdflib.term.URIRef(u'http://example.org/Tot
+tenham_Hotspur'), rdflib.term.URIRef(u'http://example.org/Arsenal')), (rdflib.term.URIRef(u'http://example.org/Tottenham_Hotspur'), rdflib.term.URIRef(u'http://example.org/West_
+Ham_United'))]
