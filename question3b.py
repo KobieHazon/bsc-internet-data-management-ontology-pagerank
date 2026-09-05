@@ -23,13 +23,12 @@ def pr_calculator(in_urls, out_urls):
 
 
 def in_url_generator(out_urls):
-    in_urls = {}
+    in_urls = {key: set() for key in out_urls}
     for key in out_urls:
         for val in out_urls[key]:
             if val not in in_urls:
                 in_urls[val] = set()
             in_urls[val].add(key)
-    in_urls[given_url] = set()
     return in_urls
 
 

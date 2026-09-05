@@ -9,7 +9,7 @@ query1 = "select ?player ?team where {?player <" + ontology_prefix + "playsFor> 
 
 query2 = "select ?player ?team where {?player <" + ontology_prefix + "playsFor> ?team. \
          ?player <" + ontology_prefix + "birthDate> ?date. \
-         FILTER(?date >= '01-01-1995'^^xsd:date)}"
+         FILTER(?date >= '1995-01-01'^^xsd:date)}"
 
 query3 = "select ?player where {?player <" + ontology_prefix + "playsFor> ?team. \
          ?team <" + ontology_prefix + "homeCity> ?city. \

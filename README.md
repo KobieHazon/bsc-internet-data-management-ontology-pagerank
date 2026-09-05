@@ -24,6 +24,7 @@ Run:
 
 ```sh
 make check
+make test
 ```
 
 Install Python dependencies with:
@@ -32,4 +33,4 @@ Install Python dependencies with:
 python3 -m pip install -r requirements.txt
 ```
 
-The validator is static and does not access the network. Original scraping scripts may require live web access if run directly.
+The repository check is static. The regression tests exercise incoming-link and ontology-query semantics without network access. Original scraping scripts may require live web access if run directly.
