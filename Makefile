@@ -1,7 +1,7 @@
 .PHONY: check test
 
 check:
-	python3 scripts/check_repository.py
+	uv run --no-project python -B scripts/check_repository.py
 
 test:
-	python3 -m unittest discover -s tests
+	PYTHONPATH=src uv run --no-project --with-requirements requirements.txt python -B -m unittest discover -s tests

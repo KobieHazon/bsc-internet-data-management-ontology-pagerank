@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import rdflib
 from rdflib import Literal, XSD
 import requests
@@ -105,7 +107,9 @@ def process_flow():
             process_city(city_entity, team_city_url)
         process_team(team_name, team_url, team_city)
 
-    g.serialize("ontology.nt", format="nt")
+    output = Path(__file__).resolve().parents[1] / "run-results" / "ontology.nt"
+    output.parent.mkdir(parents=True, exist_ok=True)
+    g.serialize(output, format="nt")
     sorted(g)
 
 

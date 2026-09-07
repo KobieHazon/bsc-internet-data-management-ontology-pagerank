@@ -41,7 +41,7 @@ class PageRankAndQueryTests(unittest.TestCase):
             )
         )
 
-        script = Path(__file__).resolve().parents[1] / "ontology_queries.py"
+        script = Path(__file__).resolve().parents[1] / "src" / "ontology_queries.py"
         with tempfile.NamedTemporaryFile(suffix=".nt") as ontology:
             graph.serialize(ontology.name, format="nt")
             old_argv = sys.argv[:]

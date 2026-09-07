@@ -7,7 +7,7 @@ DEPTH_LIMIT = 3
 
 def main(start_url):
     urls = crawler(start_url)
-    if sys.argv[0] == "question3a.py":
+    if __name__ == "__main__":
         print_urls(urls)
     return urls
 
