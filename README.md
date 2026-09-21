@@ -17,7 +17,6 @@ Python 3, requests, lxml, rdflib, RDF/N-Triples, SPARQL-style queries, PageRank.
 Run:
 
 ```sh
-make check
 make test
 ```
 
@@ -42,9 +41,9 @@ My submission with Adi Eldar is in [written-answers.pdf](solution/written-answer
 - `solution/`: Written answers.
 - `results/`: Submitted output files.
 - `tests/`: Executable regression tests.
-- `scripts/`: Repository checks and optional live-web tests.
+- `scripts/`: Bounded live-web tests.
 
-Run `make check` and `make test` from the repository root. The tests use local fixtures; they do not scrape live websites.
+Run `make test` from the repository root. The tests use local fixtures; they do not scrape live websites.
 
 Saved-data queries: `uv run --no-project --with-requirements requirements.txt python src/ontology_queries.py data/ontology.nt`. The live ontology generator writes `run-results/ontology.nt`; pass that path to query a new run without overwriting the dataset.
 
