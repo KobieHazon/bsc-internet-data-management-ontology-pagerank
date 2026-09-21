@@ -1,4 +1,6 @@
-import requests
+from urllib.parse import urljoin, urlsplit
+
+import public_web
 import lxml.html
 from collections import deque
 import sys
@@ -12,22 +14,25 @@ def main(start_url):
     return urls
 
 
-def crawler(start_url):
+def crawler(start_url, max_pages=None):
     urls = {}
     to_crawl = deque()
     cur_depth = 0
     to_crawl.append((cur_depth, start_url))
-    while (len(to_crawl) != 0):
+    while to_crawl and (max_pages is None or len(urls) < max_pages):
         cur_depth, current_url = to_crawl.popleft()
         if (current_url in urls):
             continue
-        r = requests.get(current_url)
+        r = public_web.get(current_url)
         page = lxml.html.fromstring(r.content)
         urls[current_url] = set()
-        for link in page.xpath("//a[contains(@href, '/wiki/') and not(contains(@href, ':'))]/@href"):
+        for link in page.xpath("//a[contains(@href, '/wiki/')]/@href"):
             if (len(urls[current_url]) == 10):
                 break
-            full_link = wiki_dom + link
+            full_link = urljoin(current_url, link).split('#')[0]
+            parsed = urlsplit(full_link)
+            if parsed.netloc != urlsplit(start_url).netloc or ':' in parsed.path or not parsed.path.startswith('/wiki/'):
+                continue
             if cur_depth < DEPTH_LIMIT:
                 if full_link not in urls[current_url]:
                     urls[current_url].add(full_link)
@@ -52,5 +57,5 @@ def print_urls(urls):
 
 
 wiki_dom = "https://en.wikipedia.org"
-if len(sys.argv) == 2:
+if __name__ == "__main__" and len(sys.argv) == 2:
     main(sys.argv[1])
